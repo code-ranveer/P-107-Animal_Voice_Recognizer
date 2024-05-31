@@ -1,0 +1,61 @@
+body{
+    background-color: #f5bdba; 
+    font-family: "LXGW WenKai Mono TC", monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h2
+{
+    font-family: "LXGW WenKai Mono TC", monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3
+{
+    font-family: "LXGW WenKai Mono TC", monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4
+{
+    font-family: "LXGW WenKai Mono TC", monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.header_div{
+    background: white;
+    color:crimson;
+}
+
+.header_div p{
+    font-family: "LXGW WenKai Mono TC", monospace;
+    color: lightslategray;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: "LXGW WenKai Mono TC", monospace;
+    margin-top: 35px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: lightslategray;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: bisque;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
